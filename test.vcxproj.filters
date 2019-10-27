@@ -57,7 +57,7 @@
     <None Include="..\..\..\..\WINDOWS\Fonts" />
   </ItemGroup>
   <ItemGroup>
-    <Font Include="resouces\arial.ttf">
+    <Font Include="resources\sansation.ttf">
       <Filter>Resource Files</Filter>
     </Font>
   </ItemGroup>

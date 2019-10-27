@@ -4,6 +4,7 @@
 #include "pauseMessage.h"
 #include "paddle.h"
 #include <ctime>
+#include <string>
 #include <cstdlib>
 #include <cmath>
 class Game

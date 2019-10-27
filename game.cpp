@@ -6,13 +6,14 @@ using namespace sf;
 Game::Game()
 	:mWindow(sf::VideoMode(gameWidth,gameHeight , 32), "PongGame", sf::Style::Titlebar | sf::Style::Close)
 {
-	
+	isPlaying = false;
 	AITime = sf::seconds(0.1f);
 	paddleSpeed = 400.f;
 	rightPaddleSpeed = 0.f;
 	ballSpeed = 400.f;
 	ballAngle = 0.f;
 	pi = 3.14159f;
+	text.message.setString("Welcome to pong game\nPress space to play");
 }
 void Game::run()
 {

@@ -1,21 +1,30 @@
-c:\dev\th oop\test\test\debug\vc142.pdb
-c:\dev\th oop\test\test\debug\vc142.idb
-c:\dev\th oop\test\test\debug\paddle.obj
-c:\dev\th oop\test\test\debug\main.obj
-c:\dev\th oop\test\test\debug\game.obj
-c:\dev\th oop\test\test\debug\ball.obj
-c:\dev\th oop\test\test\debug\test.res
-c:\dev\th oop\test\debug\test.pdb
-c:\dev\th oop\test\test\debug\test.tlog\cl.command.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\cl.read.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\cl.write.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link-cvtres.read.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link-cvtres.write.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link-rc.read.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link-rc.write.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link.command.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link.read.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\link.write.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\rc.command.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\rc.read.1.tlog
-c:\dev\th oop\test\test\debug\test.tlog\rc.write.1.tlog
+c:\dev\thoop\test\test\debug\vc142.pdb
+c:\dev\thoop\test\test\debug\vc142.idb
+c:\dev\thoop\test\test\debug\pausemessage.obj
+c:\dev\thoop\test\test\debug\paddle.obj
+c:\dev\thoop\test\test\debug\main.obj
+c:\dev\thoop\test\test\debug\game.obj
+c:\dev\thoop\test\test\debug\ball.obj
+c:\dev\thoop\test\debug\test.exe
+c:\dev\thoop\test\debug\test.ilk
+c:\dev\thoop\test\debug\test.pdb
+c:\dev\thoop\test\test\debug\test.res
+c:\dev\thoop\test\test\debug\vcpkg.applocal.log
+c:\dev\thoop\test\debug\sfml-graphics-d-2.dll
+c:\dev\thoop\test\debug\sfml-window-d-2.dll
+c:\dev\thoop\test\debug\sfml-system-d-2.dll
+c:\dev\thoop\test\debug\freetyped.dll
+c:\dev\thoop\test\debug\zlibd1.dll
+c:\dev\thoop\test\debug\bz2d.dll
+c:\dev\thoop\test\debug\libpng16d.dll
+c:\dev\thoop\test\test\debug\game.obj.enc
+c:\dev\thoop\test\test\debug\test.tlog\cl.command.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\cl.read.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\cl.write.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\link.command.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\link.read.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\link.write.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\rc.command.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\rc.read.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\rc.write.1.tlog
+c:\dev\thoop\test\test\debug\test.tlog\test.write.1u.tlog

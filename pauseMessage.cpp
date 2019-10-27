@@ -2,9 +2,10 @@
 
 pauseMessage::pauseMessage()
 {
-	sf::Text pauseMessage;
-	pauseMessage.setCharacterSize(40);
-	pauseMessage.setPosition(170.f, 150.f);
-	pauseMessage.setFillColor(sf::Color::White);
-	pauseMessage.setString("Welcome to Pong!\nPress space to start the game");
+	sf::Font font;
+	font.loadFromFile("resources/sansation.ttf");
+	this->message.setFont(font);
+	this->message.setCharacterSize(40);
+	this->message.setPosition(170.f, 150.f);
+	this->message.setFillColor(sf::Color::White);
 }
